@@ -11,7 +11,6 @@ owner:
   bio: "Ph.D. candidate in computational biology specializing in analyzing large-scale publicly-available genomics data"
   email: davidju@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: JulianneDavid
   linkedin: julianne-david
   github: JulianneDavid
   orcid: 0000-0003-2690-8239
@@ -22,6 +21,7 @@ owner:
     analytics:
     verify:
     scholar: wf3wMSkAAAAJ
+  twitter: JulianneDavid
   facebook: #username
   instagram: #username
   bing-verify:
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#D0FEFE'
-lowlight-color: '#01153E'
+highlight-color: '#9CBB04'
+lowlight-color: '#6A6E09'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
