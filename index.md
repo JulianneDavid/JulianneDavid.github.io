@@ -3,12 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a graduate student in the [Computational Biology Program](https://www.ohsu.edu/school-of-medicine/computational-biology) and [Department of Biomedical Engineering](https://www.ohsu.edu/school-of-medicine/biomedical-engineering) at [Oregon Health & Science University](http://ohsu.edu/). I work in the [PDXgx group](https://github.com/pdxgx), co-mentored by [Abhi Nellore](https://scholar.google.com/citations?user=XxPWj5oAAAAJ) and [Reid Thompson](https://scholar.google.com/citations?user=tENxs6QAAAAJ). My work focuses on improving detection and identification of alternative and aberrant splicing in RNA-seq data, with applications in cancer immunotherapy and early detection. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Evaluation of filter parameters for calling cancer-specific exon-exon junctions
+- Improving detection of retained introns
