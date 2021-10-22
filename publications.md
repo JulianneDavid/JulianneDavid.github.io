@@ -2,7 +2,6 @@
 layout: page
 excerpt: "Publications"
 ---
-### Publications
 Nguyen, A., **David, J.K.**, Maden S.K., Wood M.A., Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
 
 Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [Burden of tumor mutations, neoepitopes, and other variants are weak predictors of cancer immunotherapy response and overall survival.](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00729-2) _Genome Medicine_, _12_, 33.
