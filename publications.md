@@ -12,3 +12,9 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 **David, J.K.**, Wyatt, R.E. (2009). [Computation of barrier transmission probabilities from two-dimensional real-valued approximate quantum trajectories.](https://www.sciencedirect.com/science/article/abs/pii/S0009261409011774) _Chemical Physics Letters_, _481_, 234-239.
 
 **David, J.K.**, Wyatt, R.E. (2008). [Barrier scattering with complex-valued quantum trajectories: Taxonomy and analysis of isochrones.](https://aip.scitation.org/doi/10.1063/1.2834223) _Journal of Chemical Physics_, _128_, 094102.
+
+
+_Manuscripts in Preparation_
+**David, J.K.**, Maden, S.K., Thompson, R.F., Nellore, A. Long-read RNA-sequencing analysis uncovers target features for detecting retained introns from short read RNA-sequencing data.
+
+**David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
