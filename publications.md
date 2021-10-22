@@ -13,7 +13,7 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 
 **David, J.K.**, Wyatt, R.E. (2008). [Barrier scattering with complex-valued quantum trajectories: Taxonomy and analysis of isochrones.](https://aip.scitation.org/doi/10.1063/1.2834223) _Journal of Chemical Physics_, _128_, 094102.
 
-___Manuscripts in Preparation___
+___Manuscripts in Preparation___  
 **David, J.K.**, Maden, S.K., Thompson, R.F., Nellore, A. Long-read RNA-sequencing analysis uncovers target features for detecting retained introns from short read RNA-sequencing data.
 
 **David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
