@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Publications"
 excerpt: "Publications"
 ---
 Nguyen, A., **David, J.K.**, Maden S.K., Wood M.A., Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
@@ -13,7 +14,7 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 **David, J.K.**, Wyatt, R.E. (2008). [Barrier scattering with complex-valued quantum trajectories: Taxonomy and analysis of isochrones.](https://aip.scitation.org/doi/10.1063/1.2834223) _Journal of Chemical Physics_, _128_, 094102.
 
 
-### Manuscripts in Preparation
+_Manuscripts in Preparation_  
 **David, J.K.**, Maden, S.K., Thompson, R.F., Nellore, A. Long-read RNA-sequencing analysis uncovers target features for detecting retained introns from short read RNA-sequencing data.
 
 **David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
