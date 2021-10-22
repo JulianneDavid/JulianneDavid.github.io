@@ -15,6 +15,7 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 
 
 _Manuscripts in Preparation_
+
 **David, J.K.**, Maden, S.K., Thompson, R.F., Nellore, A. Long-read RNA-sequencing analysis uncovers target features for detecting retained introns from short read RNA-sequencing data.
 
 **David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
