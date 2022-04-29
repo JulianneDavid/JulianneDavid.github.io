@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Julianne K. David, Ph.D.
-  avatar: bio_photo_22.jpg
+  avatar: bio_photo_22.jpeg
   bio: "Computational biologist specializing in analyzing large-scale publicly-available genomics data"
   email: julianne@b5genomics.com
   # Do not include the @ symbol in your Twitter username
