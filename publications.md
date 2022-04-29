@@ -3,6 +3,9 @@ layout: page
 title: "Publications"
 excerpt: "Publications"
 ---
+**David, J.K.^**, Maden, S.K.^, Wood, M.A., Thompson, R.F., Nellore, A. [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads.](https://www.biorxiv.org/content/10.1101/2022.03.11.484016v1) _bioRxiv_. 2022. (Manuscript under review.)
+^co-first authors
+
 Nguyen, A., **David, J.K.**, Maden S.K., Wood M.A., Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
 
 Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [Burden of tumor mutations, neoepitopes, and other variants are weak predictors of cancer immunotherapy response and overall survival.](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00729-2) _Genome Medicine_, _12_, 33.
@@ -14,6 +17,4 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 **David, J.K.**, Wyatt, R.E. (2008). [Barrier scattering with complex-valued quantum trajectories: Taxonomy and analysis of isochrones.](https://aip.scitation.org/doi/10.1063/1.2834223) _Journal of Chemical Physics_, _128_, 094102.
 
 ___Manuscripts in Preparation___  
-**David, J.K.**, Maden, S.K., Thompson, R.F., Nellore, A. Long-read RNA-sequencing analysis uncovers target features for detecting retained introns from short read RNA-sequencing data.
-
 **David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
