@@ -6,10 +6,10 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Julianne K. David
-  avatar: jdavid-bio-photo.jpg
-  bio: "Ph.D. candidate in computational biology specializing in analyzing large-scale publicly-available genomics data"
-  email: davidju@ohsu.edu
+  name: Julianne K. David, Ph.D.
+  avatar: bio_photo_22.jpg
+  bio: "Computational biologist specializing in analyzing large-scale publicly-available genomics data"
+  email: julianne@b5genomics.com
   # Do not include the @ symbol in your Twitter username
   linkedin: julianne-david
   github: JulianneDavid
@@ -44,8 +44,12 @@ owner:
 # you may do so in _sass/variables.scss
 # highlight-color: '#FFB037'
 # lowlight-color: '#4A676A'
-highlight-color: '#C1D0D0'
-lowlight-color: '#FFB037'
+# original modified:
+# highlight-color: '#C1D0D0'
+# lowlight-color: '#FFB037'
+# current: 
+highlight-color: '#7AA6B7'
+lowlight-color: '#9E1A21'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
