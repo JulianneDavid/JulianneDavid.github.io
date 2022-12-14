@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 excerpt: "Publications"
 ---
-**David, J.K.^**, Maden, S.K.^, Wood, M.A., Thompson, R.F., Nellore, A. [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads.](https://www.biorxiv.org/content/10.1101/2022.03.11.484016v1) _bioRxiv_. 2022. (Manuscript under review.)
+**David, J.K.^**, Maden, S.K.^, Wood, M.A., Thompson, R.F., Nellore, A. (2022) [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02789-6) _Genome Biology_. _23_, 240.
 ^co-first authors
 
 Nguyen, A., **David, J.K.**, Maden S.K., Wood M.A., Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
