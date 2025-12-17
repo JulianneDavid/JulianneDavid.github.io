@@ -3,6 +3,9 @@ layout: page
 title: "Publications"
 excerpt: "Publications"
 ---
+Prélot, L.<sup>\*</sup>, **David, J.K.<sup>\*</sup>**, Lin, A., Kahles, A., Yurchikova, M., Thompson, R.F., Rätsch, G. (2025) [Splicing neoepitope prediction is sensitive to methodological differences.](https://www.biorxiv.org/content/10.1101/2025.09.10.674685v1) _biorxiv_ doi:10.1101/2025.09.10.674685.
+\*authors contributed equally
+
 Huijse, L.<sup>\*</sup>, Adams, S.M.<sup>\*</sup>, Burton, J.N.<sup>\*</sup>, **David, J.K.<sup>\*</sup>**, Julian, R.S.<sup>\*</sup>, Meshulam-Simon, G.<sup>\*</sup>, Mickalide, H.<sup>\*</sup>, Tafesse, B.D.<sup>\*</sup>, Calonga-Solís V., Wolf, I.R., Morrison, A.J., Augusto, D.G., Endlich, S<sup>\*</sup>. (2023) [A pan-MHC reference graph with 246 fully contiguous phased sequences.](https://www.biorxiv.org/content/10.1101/2023.09.01.555813v1) _biorxiv_ doi:10.1101/2023.09.01.555813.
 \*authors contributed equally
 
@@ -18,6 +21,3 @@ Wood, M.A., Weeder, B.R., **David, J.K.**, Nellore, A., Thompson, R.F. (2020). [
 **David, J.K.**, Wyatt, R.E. (2009). [Computation of barrier transmission probabilities from two-dimensional real-valued approximate quantum trajectories.](https://www.sciencedirect.com/science/article/abs/pii/S0009261409011774) _Chemical Physics Letters_, _481_, 234-239.
 
 **David, J.K.**, Wyatt, R.E. (2008). [Barrier scattering with complex-valued quantum trajectories: Taxonomy and analysis of isochrones.](https://aip.scitation.org/doi/10.1063/1.2834223) _Journal of Chemical Physics_, _128_, 094102.
-
-___Manuscripts in Preparation___  
-**David, J.K.**, Prelot, L., Kahles, A., Ratsch, G., Thompson, R.F., Nellore, A. Comprehensive analysis of methods for detection and validation of aberrant splicing-derived cancer-specific neoepitopes.
